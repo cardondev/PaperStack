@@ -12,6 +12,8 @@ PaperStack is a single HTML file that runs entirely from a browser no servers, n
 
 Developer Note: I understand this app might seem redundant to some of you and that's ok. PaperStack is a purpose built web app for those who don't have access to fancy PDF viewers in restrictive systems.
 
+![PaperStack Screenshot](PaperStack_QuadView.png)
+
 ---
 
 ##  Quick Start
